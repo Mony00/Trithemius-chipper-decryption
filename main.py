@@ -3,7 +3,7 @@ from tkinter import messagebox
 import sys
 import os
 import re
-from encr_decr import decrypt_trithemius
+from decrypt import decrypt_trithemius
 
 # Function to process input and display the decrypted result
 def process_and_display():
